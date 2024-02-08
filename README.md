@@ -1,5 +1,5 @@
 # Delete File Tool (DFT) - программное средство для уничтожения пользовательских данных в ОС Windows
-![Image alt](https://github.com/vladmuer/BKP/blob/main/DFT.jpg)
+![Image alt](https://github.com/vladmuer/BKP/blob/main/DFT.png)
 
 Папка "Installer" содержит установочный файл программного средства
 
